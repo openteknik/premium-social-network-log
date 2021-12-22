@@ -6,6 +6,7 @@ PREMIUM SOCIAL NETWORK 6.1-build-1640155314  12-22-2021
     - Adds a cron job to do a video conversion in backend.
     - Adds a video pending conversion page only for admins and video owner. 
     - Adds a video delete option if video conversion failed.
+    - Please see https://www.openteknik.com/wiki/view/21820/videos-component-configuration
 
 PREMIUM SOCIAL NETWORK 6.1-build-1639928890  12-19-2021
 - [B] Business page causing to show all comments in the newsfeed.
