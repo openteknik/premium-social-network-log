@@ -1,4 +1,9 @@
 # Change Log for premium social network as of 12-2021
+PREMIUM SOCIAL NETWORK 6.1-build-1640876563  12/30/2021
+ - USER VERIFIED 3.0 
+    - [E] Show tick on user friends list
+    - [B] Tick not showing on user/photo view comment list.
+ 
 PREMIUM SOCIAL NETWORK 6.1-build-1640793001  12/29/2021
 - VIDEOS  7.2.
   - [B] Videos cron.php was not able to run due to SAPI from cpanel cron job not returning cli rather cgi-fcgi. Improved the detection system.
