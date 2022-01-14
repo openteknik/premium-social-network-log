@@ -1,4 +1,13 @@
 # Change Log for premium social network as of 12-2021
+PREMIUM SOCIAL NETWORK 6.1-build-1642176255  01/14/2021
+- EVENTS 4.2
+     - [B] Event add date is not translated when different langauge in use.
+- BUSINESS PAGES 2.2
+    - [E] Add a search page type for business pages
+- MULTI PURPOSE THEME 6.3
+    - [B] Show date picker dark mode
+    - [E] Show business page search icon.
+
 PREMIUM SOCIAL NETWORK 6.1-build-1640876563  12/30/2021
  - USER VERIFIED 3.0 
     - [E] Show tick on user friends list
