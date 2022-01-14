@@ -1,5 +1,5 @@
 # Change Log for premium social network as of 12-2021
-PREMIUM SOCIAL NETWORK 6.1-build-1642176255  01/14/2021
+PREMIUM SOCIAL NETWORK 6.1-build-1642176255  01/14/2022
 - EVENTS 4.2
      - [B] Event add date is not translated when different langauge in use.
 - BUSINESS PAGES 2.2
