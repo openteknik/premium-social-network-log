@@ -1,4 +1,7 @@
 # Change Log for premium social network as of 12-2021
+PREMIUM SOCIAL NETWORK 6.1-build-1642951734  01/23/2022
+- [B] Old videos uploaded before Videos component 7.2 update didn't shows because the upgrade script was missing.
+
 PREMIUM SOCIAL NETWORK 6.1-build-1642176255  01/14/2022
 - EVENTS 4.2
      - [B] Event add date is not translated when different langauge in use.
