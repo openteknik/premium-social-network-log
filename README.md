@@ -1,4 +1,9 @@
 # Change Log for premium social network as of 12-2021
+PREMIUM SOCIAL NETWORK 6.1-build-1643890979  03/02/2022
+- CUSTOM FIELDS 7.0
+    - [B] Sorting of custom fields doesn't reflect singup form.
+    - [B] data_args undefined variable because on custom fields 6.2
+    
 PREMIUM SOCIAL NETWORK 6.1-build-1642951734  02/02/2022
 - [E] Updated to CustomFields 6.2
 
