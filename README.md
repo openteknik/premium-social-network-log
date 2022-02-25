@@ -1,4 +1,8 @@
 # Change Log for premium social network as of 12-2021
+PREMIUM SOCIAL NETWORK 6.1-build-1645803269  25/02/2022
+- Remember Me Login 3.0 
+    - [E] Update fingerprint to v3
+    
 PREMIUM SOCIAL NETWORK 6.1-build-1643890979  03/02/2022
 - CUSTOM FIELDS 7.0
     - [B] Sorting of custom fields doesn't reflect singup form.
