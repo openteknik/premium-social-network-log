@@ -1,4 +1,9 @@
 # Change Log for premium social network as of 12-2021
+PREMIUM SOCIAL NETWORK 6.1-build-1646717283  08/03/2022
+- Stories 2.1
+    - Delete button missing due to BS5
+    - Add a warning before delete
+   
 PREMIUM SOCIAL NETWORK 6.1-build-1645803269  25/02/2022
 - Remember Me Login 3.0 
     - [E] Update fingerprint to v3
