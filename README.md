@@ -1,4 +1,8 @@
 # Change Log for premium social network as of 12-2021
+PREMIUM SOCIAL NETWORK 6.1-build-1647196473  13/03/2022
+- [U] Polls 2.2
+    - [E] Added total people voted count in title of polls (right corner).
+
 PREMIUM SOCIAL NETWORK 6.1-build-1646717283  08/03/2022
 - [U] Stories 2.1
     - [B] Delete button missing due to BS5
