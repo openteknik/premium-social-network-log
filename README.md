@@ -1,4 +1,7 @@
 # Change Log for premium social network as of 12-2021
+PREMIUM SOCIAL NETWORK 6.1-build 1651253416 29/04/2022
+- [U] Share post 3.1 
+
 PREMIUM SOCIAL NETWORK 6.1-build 1650628405  22/04/2022
 - [U] Updated Social Theme and Awesome theme.
 
