@@ -1,4 +1,8 @@
 # Change Log for premium social network as of 12-2021
+PREMIUM SOCIAL NETWORK 6.3-build-1656752311 02-07-2022
+- [U] Videos 8.2
+- [B] Old videos and events images not showing after update.
+
 PREMIUM SOCIAL NETWORK 6.1-build 1651253416 29/04/2022
 - [U] Share post 3.1 
 
