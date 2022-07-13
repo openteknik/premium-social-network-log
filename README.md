@@ -1,4 +1,7 @@
 # Change Log for premium social network as of 12-2021
+PREMIUM SOCIAL NETWORK 6.3-build 1657717409 13-07-2022
+- [U] HashTag 5.0
+
 PREMIUM SOCIAL NETWORK 6.3-build 1657216129 07-07-2022
 - [U] Videos 8.3
 
