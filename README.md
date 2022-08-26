@@ -1,4 +1,13 @@
 # Change Log for premium social network as of 12-2021
+PREMIUM SOCIAL NETWORK 6.4 build 1661510459 26-08.2022
+- [R] Removed Hashtag 5.0 and replaced it with old version.
+- [U] Sentiment component update
+- [U] Censorship
+- [U] Videos
+- [U] LinkPreview
+
+The update is for OSSN 6.4 release.
+
 PREMIUM SOCIAL NETWORK 6.3-build 1657717409 13-07-2022
 - [U] HashTag 5.0
 
