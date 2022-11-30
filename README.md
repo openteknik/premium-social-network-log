@@ -1,4 +1,9 @@
 # Change Log for premium social network as of 12-2021
+PREMIUM SOCIAL NETWORK 6.5 build 1669820463 30-11-2022
+- [U] SharePost now allows to share videos, polls, events, marketplace, files.
+- [U] Updated videos component to 9.0
+- [U] Updated MultiPurpose theme with some improvements.
+
 PREMIUM SOCIAL NETWORK 6.4 build 1661510459 26-08.2022
 - [R] Removed Hashtag 5.0 and replaced it with old version.
 - [U] Sentiment component update
