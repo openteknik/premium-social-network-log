@@ -1,4 +1,7 @@
 # Change Log for premium social network as of 12-2021
+PREMIUM SCOIAL NETWORK 6.6 BUILD 1671544138 20-12-2022
+- [U] RememberLogin 
+
 PREMIUM SOCIAL NETWORK 6.5 build 1669820463 30-11-2022
 - [U] SharePost now allows to share videos, polls, events, marketplace, files.
 - [U] Updated videos component to 9.0
