@@ -1,4 +1,7 @@
 # Change Log for premium social network as of 12-2021
+PREMIUM SOCIAL NETWORK 6.6 BUILD 1672828367 04-01-2023
+- [U] Updated MultiPurpose Theme
+
 PREMIUM SCOIAL NETWORK 6.6 BUILD 1671544138 20-12-2022
 - [U] RememberLogin 
 
