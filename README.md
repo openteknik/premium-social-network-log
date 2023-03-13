@@ -1,4 +1,7 @@
 # Change Log for premium social network as of 12-2021
+PREMIUM SOCIAL NETWROK 6.6 BUILD 1678716762 13-03-2023
+- [U] Custom fields show label have issue.
+
 PREMIUM SOCIAL NETWORK 6.6 BUILD 1672828367 04-01-2023
 - [U] Updated MultiPurpose Theme
 
