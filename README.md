@@ -1,4 +1,8 @@
 # Change Log for premium social network as of 12-2021
+PREMIUM SOCIAL NETWORK 7.0 BUILD 1680051600 29-03-2023
+-  [U] OSSN UPDATED
+-  Multipurpose Theme Changes.
+
 PREMIUM SOCIAL NETWROK 6.6 BUILD 1678716762 13-03-2023
 - [U] Custom fields show label have issue.
 
