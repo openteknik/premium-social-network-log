@@ -1,4 +1,7 @@
 # Change Log for premium social network as of 12-2021
+PREMIUM SOCIAL NETWORK 7.0 BUILD 1682963249 01-05-2023
+- [U] User Verified 4.1
+
 PREMIUM SOCIAL NETWORK 7.0 BUILD 1682077724 21-04-2023
 - [U] UserVerified
 - [B] Site Offline show wrong translation
