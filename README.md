@@ -1,4 +1,8 @@
 # Change Log for premium social network as of 12-2021
+PREMIUM SOCIAL NETWORK 7.0 BUILD 1685909370 05-06-2023
+- [U] Aweosme Theme 
+- [U] Business Pages
+
 PREMIUM SOCIAL NETWORK 7.0 BUILD 1682963249 01-05-2023
 - [U] User Verified 4.1
 
