@@ -1,4 +1,10 @@
 # Change Log for premium social network as of 12-2021
+PREMIUM SOCIAL NETWORK 7.0 BUILD 1688234765 01-07-2023
+- [U] Custom Fields
+- [U] Share posts
+- [U] Events
+- [U] UserVerified
+
 PREMIUM SOCIAL NETWORK 7.0 BUILD 1685909370 05-06-2023
 - [U] Aweosme Theme 
 - [U] Business Pages
