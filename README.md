@@ -1,4 +1,8 @@
 # Change Log for premium social network as of 12-2021
+PREMIUM SOCIAL NETWORK 7.2 BUILD 1700110760 16-11-2023
+- [U] Multipurpose theme
+- [U] Family and relationships
+
 PREMIUM SOCIAL NETWORK 7.0 BUILD 1688234765 01-07-2023
 - [U] Custom Fields
 - [U] Share posts
