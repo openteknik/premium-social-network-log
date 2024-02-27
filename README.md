@@ -1,9 +1,12 @@
 # Change Log for premium social network as of 12-2021
+PREMIUM SOCIAL NETWORK BUILD 1709011592 
+- [U] RememberLogin 4.0
+  
 PREMIUM SOCIAL NETWORK 7.2 BUILD 1702470567 13-12-2023
 - [U] Awemsome theme pages layout issues with search, groups.
 - [U] Multipurpose and Social Theme.
 - [U] Password Validation.
-- 
+
 PREMIUM SOCIAL NETWORK 7.2 BUILD 1700110760 16-11-2023
 - [U] Multipurpose theme
 - [U] Family and relationships
