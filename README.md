@@ -1,4 +1,12 @@
 # Change Log for premium social network as of 12-2021
+PREMIUM SOCIAL NETWORK 8.1 BUILD 1748878129 
+- [U] Polls
+- [U] Events
+- [U] Videos
+- [U] Reports
+- [U] BusinessPages
+- [U] Themes
+
 PREMIUM SOCIAL NETWORK 7.5 BUILD 1711411200 25th MARCH 2024
 - [U] Polls
 - [U] Events
